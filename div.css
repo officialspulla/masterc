@@ -1,0 +1,18 @@
+ .box_mid{
+	height: 200px;
+	background-color: grey;
+}
+
+.box_left{
+	height: 300px;
+	
+border-color: green;
+border-style: ridge;
+}
+
+.box_right{
+	height: 300px;
+	border-color: green;
+border-style: ridge;
+	
+}
